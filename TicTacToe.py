@@ -150,3 +150,5 @@ def WinnerCheck():
         messagebox.showinfo(title='Winner',message='The winner is P1')
     if winner == 2:
         messagebox.showinfo(title='Winner',message='The winner is P2')
+
+# Abdessamad KERROU
